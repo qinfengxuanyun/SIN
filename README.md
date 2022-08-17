@@ -1,1 +1,1 @@
-# you can use ui_main.py to test
+# This repository implements the training, testing tools for "Style Inference Inpainting"
