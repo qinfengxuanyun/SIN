@@ -4,3 +4,4 @@ This repository implements the training, testing tools for "Style Inference Inpa
 python test.py
 ## Pretrained Models
 Download the pre-trained models using the following links and put them under checkpoints/ directory.
+afhq https://drive.google.com/drive/folders/1fAxasIQs7izOJKZpiuLG23cfjh4VkCv6?usp=sharing
